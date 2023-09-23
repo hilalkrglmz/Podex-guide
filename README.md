@@ -1,7 +1,4 @@
-
-
-https://github.com/hilalkrglmz/Pokedex-guide/assets/140657703/b4aa8098-3fd8-4c43-9bc9-af71c9363e00
-
+https://github.com/hilalkrglmz/Pokedex-guide/assets/140657703/89369086-2e9d-428b-8f66-674475e710cb
 
 <!DOCTYPE html>
 <html lang="en">
